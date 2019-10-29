@@ -7,5 +7,6 @@ jspm_packages
 
 .webpack/*
 coverage/*
+reports/*
 
 .vscode/*

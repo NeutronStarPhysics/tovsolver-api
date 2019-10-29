@@ -1,3 +1,4 @@
+// eslint-disable-next-line
 import { Request, Response, Application } from 'express';
 import EoSService from '../services/eos.service';
 
